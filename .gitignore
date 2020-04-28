@@ -1,0 +1,4 @@
+$ git status
+
+#untracked folders/files
+node_modules/*
