@@ -11,3 +11,5 @@ const app = (
         <App />
     </BrowserRouter>
 );
+
+ReactDOM.render(app, document.querySelector("#root"));
